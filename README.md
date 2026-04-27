@@ -5,7 +5,7 @@
 <l>•Uva </l>
 <l>•Arroz</l>
 
-<h6> Funcionários </h6>
+<h2> Trabalhadores </h2>
 <l> Pedro </l>
 <l> Lucas </l>
 <l> Ana </l>
