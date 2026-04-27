@@ -24,7 +24,7 @@
 
 <h1> Horario de funcionamento </h1>
 <li> 08:00/19:00 </li>
-<li> Feriados So trabalhamos meio periodo</li>
+<li> Feriados So trabalhamos por meio periodo</li>
 
 <h1> Dias de funcionamento </h1>
 <li> Todos os dias da semana </li>
