@@ -11,6 +11,9 @@
 <l> Pedro </l>
 <l> Lucas </l>
 <l> Ana </l>
+<l> Roberta </l>
+<l> João </l>
+<l> Ruan </l>
 
 <h1> Horario de funcionamento </h1>
 <l> 08:00/19:00 </l>
