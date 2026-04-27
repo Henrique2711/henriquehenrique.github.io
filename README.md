@@ -8,6 +8,8 @@
 <li> Óleo </li>
 <li> Cuscuz </li>
 <li> Acesse nosso site www.lojaodopovo.com.br </li>
+<li> aceitamos pix cartão mas fiado não </li>
+<li> acesse o site para saber mais</li>
 
 <h2> Trabalhadores </h2>
 <li> Pedro </li>
