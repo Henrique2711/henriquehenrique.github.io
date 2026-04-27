@@ -4,6 +4,8 @@
 <l>•Pêra </l>
 <l>•Uva </l>
 <l>•Arroz</l>
+<l> Feijão </l>
+<l> Óleo </l> 
 
 <h2> Trabalhadores </h2>
 <l> Pedro </l>
