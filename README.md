@@ -9,15 +9,15 @@
 <li> Cuscuz </li>
 
 <h2> Trabalhadores </h2>
-<l> Pedro </l>
-<l> Lucas </l>
-<l> Ana </l>
-<l> Roberta </l>
-<l> João </l>
-<l> Ruan </l>
+<li> Pedro </li>
+<li> Lucas </li>
+<li> Ana </li>
+<li> Roberta </li>
+<li> João </li>
+<li> Ruan </li>
 
 <h1> Horario de funcionamento </h1>
-<l> 08:00/19:00 </l>
+<li> 08:00/19:00 </li>
 
 <h1> Dias de funcionamento </h1>
-<l> Todos os dias da semana </l>
+<li> Todos os dias da semana </li>
