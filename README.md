@@ -7,6 +7,7 @@
 <li> Feijão </li>
 <li> Óleo </li>
 <li> Cuscuz </li>
+<li> Acesse nosso site www.lojaodopovo.com.br </li>
 
 <h2> Trabalhadores </h2>
 <li> Pedro </li>
